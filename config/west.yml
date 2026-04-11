@@ -8,8 +8,8 @@ manifest:
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: main
+      remote: yangdigi
+      revision: 2603885 # Zephyr 3.5移行前の比較的安定した地点
       import: app/west.yml
     - name: zmk-keyboards-klink
       remote: yangdigi
