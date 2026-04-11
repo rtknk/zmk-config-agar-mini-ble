@@ -13,6 +13,6 @@ manifest:
       import: app/west.yml
     - name: zmk-keyboards-klink
       remote: yangdigi
-      revision: main
+      revision: 2603885 # Zephyr 3.5移行前の比較的安定した地点
   self:
     path: config
