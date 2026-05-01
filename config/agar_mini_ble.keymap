@@ -23,18 +23,6 @@
 };
 
 / { 
-    behaviors {
-        lt_easy: layer_tap_easy {
-            compatible = "zmk,behavior-hold-tap";
-            #binding-cells = <2>;
-            flavor = "tap-preferred";
-            tapping-term-ms = <500>;
-            quick-tap-ms = <300>;
-            require-prior-idle-ms = <250>;
-            bindings = <&mo>, <&kp>;
-        };
-    };
-
     combos {
         compatible = "zmk,combos";
 
