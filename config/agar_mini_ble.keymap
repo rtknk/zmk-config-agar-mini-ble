@@ -64,7 +64,7 @@
 &trans           &none           &msc SCRL_DOWN  &kp UP          &msc SCRL_UP     &none     &none    &kp C_VOL_DN     &kp C_VOL_UP   &kp C_MUTE  &none      &none    &none
 &kp LC(LS(TAB))  &kp LG(LBRC)    &kp LEFT        &kp DOWN        &kp RIGHT        &kp LG(RBRC)       &kp LS(LALT)     &kp LSHFT        &kp LGUI       &kp LALT    &kp LCTRL  &kp LC(TAB)
 &trans           &none           &kp LG(LS(N3))  &kp LG(LS(N4))  &kp LG(LS(N5))   &none     &none    &kp LG(MINUS)    &kp LG(EQUAL)  &none       &none      &none
-            　&kp LALT        &trans          &none                 &kp LG(SPACE)            &trans         &trans
+            &kp LALT        &trans          &none                 &kp LG(SPACE)            &trans         &trans
             >;
         };
 
