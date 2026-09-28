@@ -62,7 +62,7 @@
             display-name = "ARROW";
             bindings = <
 &trans      　   &none           &msc SCRL_DOWN  &kp UP          &msc SCRL_UP     &none     &none    &kp C_VOL_DN     &kp C_VOL_UP   &kp C_MUTE  &none      &none    &none
-&kp LC(LS(TAB)) &kp LGUI(LBKT)  &kp LEFT        &kp DOWN        &kp RIGHT        &kp LGUI(RBKT)     &kp LS(LALT)  &kp LSHFT        &kp LGUI       &kp LALT    &kp LCTRL  &kp LC(TAB)
+&kp LC(LS(TAB))  &kp LG(LBKT)    &kp LEFT        &kp DOWN        &kp RIGHT        &kp LG(RBKT)       &kp LS(LALT)     &kp LSHFT        &kp LGUI       &kp LALT    &kp LCTRL  &kp LC(TAB)
 &trans      　   &none           &kp LG(LS(N3))  &kp LG(LS(N4))  &kp LG(LS(N5))   &none     &none    &kp LG(MINUS)    &kp LG(EQUAL)  &none       &none      &none
             　&kp LALT        &trans          &none                 &kp LG(SPACE)            &trans         &trans
             >;
